@@ -1,0 +1,22 @@
+body {
+    background: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    width: 400 px;
+    margin: 0 auto;
+    text-align: center;
+}
+.container h1{
+    text-align: center;
+}
+.container form, .container h2{
+    background: lightgreen;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+
+.form_action_element{
+    text-align: center;
+}
